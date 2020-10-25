@@ -282,6 +282,10 @@ p {
   text-transform: capitalize;
 }
 
+.users a:hover {
+  text-decoration: underline;
+}
+
 .products {
   margin: 4rem 0;
   display: grid;
